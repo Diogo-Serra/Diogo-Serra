@@ -21,13 +21,12 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 ## 📂 Featured Projects
 
 - [Project 1](https://github.com/Diogo-Serra/42_Piscine) – Piscine 42
-- [Project 2]([https://github.com/Diogo-Serra/project2](https://github.com/Diogo-Serra/42_School)) – School 42 - Common Core
+- [Project 2](https://github.com/Diogo-Serra/42_School) – School 42 - Common Core
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/diogoserra90/)
+- [Portfolio](https://github.com/Diogo-Serra?tab=repositories)
 
 ---
 
