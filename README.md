@@ -23,12 +23,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 - [Project 1](https://github.com/Diogo-Serra/project1) – Short project description goes here.
 - [Project 2](https://github.com/Diogo-Serra/project2) – Another awesome project.
 
-## 🌱 Currently Learning
-
-- [ ] Advanced TypeScript
-- [ ] Cloud Computing (AWS, Azure)
-- [ ] Machine Learning basics
-
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
