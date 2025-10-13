@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ## 🛠️ Technologies & Tools
 
-- Languages: C, JavaScript, Python, TypeScript, Java
+- Languages: C, JavaScript, Python, TypeScript, Java, Kotlin, Bash
 - Frameworks: React, Node.js, Express
-- Tools: Git, Docker, VS Code, Linux
+- Tools: Git, Docker, Visual Studio Code (VS Code), Android Studio, IntelliJ IDEA, Linux, Make (for Makefiles)
 
 ## 📈 GitHub Stats
 
