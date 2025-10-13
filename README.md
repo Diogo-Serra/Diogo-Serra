@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 - [Piscine 42](https://github.com/Diogo-Serra/42_Piscine)
 - [School 42 - Common Core](https://github.com/Diogo-Serra/42_School)
-- [SkySeek - AIChatBot]([https://github.com/Diogo-Serra/42_School](https://github.com/Diogo-Serra/SkySeek))
-- [OSRS - Bots]([[https://github.com/Diogo-Serra/42_School](https://github.com/Diogo-Serra/SkySeek)](https://github.com/Diogo-Serra/OSRS_bots))
+- [SkySeek - AIChatBot](https://github.com/Diogo-Serra/SkySeek)
+- [OSRS - Bots](https://github.com/Diogo-Serra/OSRS_bots)
 
 ## 🤝 Let's Connect
 
