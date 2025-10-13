@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 
 ## 📂 Featured Projects
 
-- [Project 1](https://github.com/Diogo-Serra/42_Piscine) – Piscine 42
-- [Project 2](https://github.com/Diogo-Serra/42_School) – School 42 - Common Core
+- [Piscine 42](https://github.com/Diogo-Serra/42_Piscine)
+- [School 42 - Common Core](https://github.com/Diogo-Serra/42_School)
 
 ## 🤝 Let's Connect
 
