@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 ## 🚀 About Me
 
 - 🌐 Software developer and technology enthusiast
-- 💡 Interested in web development, automation, and data science
+- 💡 Interested in SysAdmin, automation and cyber security
 - 📚 Always learning new things and exploring new tools
 
 ## 🛠️ Technologies & Tools
