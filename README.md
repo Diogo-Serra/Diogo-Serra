@@ -10,17 +10,11 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 
 ## 🎯 What I'm focused on now
 
-**42 Common Core**
-
-**SysAdmin & Cyber Security**
-  
-**AI Automation**
-
+**42 Common Core** • **SysAdmin & Cyber Security** • **AI Automation**
 
 ---
 
 ## 🧰 Skills & Tools 
-
 
 C • Bash • Python • JavaScript • HTML/CSS • Kotlin  
 
