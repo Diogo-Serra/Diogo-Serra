@@ -14,11 +14,11 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 
 ## 🎯 What I'm focused on now
 
-**42 Common Core:**
+**42 Common Core**
 
-**SysAdmin & Security:**
+**SysAdmin & Security**
   
-**AI Automation:**
+**AI Automation**
 
 
 ---
