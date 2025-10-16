@@ -34,7 +34,7 @@ Git • Docker • Make • GCC/Clang • GDB • Valgrind • VS Code • Andro
 
 Android (Kotlin, Jetpack Compose)  
 
-HTML/CSS, small JS exercises
+HTML/CSS, Javascript
 
 ---
 
