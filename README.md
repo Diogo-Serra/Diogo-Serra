@@ -15,11 +15,11 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 ## 🎯 What I'm focused on now
 
 **42 Common Core:**
-C, pointers/memory, Makefiles, Unix tooling  
+
 **SysAdmin & Security:**
-Linux fundamentals, shell automation, containers, networking basics  
+  
 **AI Automation:**
-lightweight clients, scripting, and mobile UX for LLMs
+
 
 ---
 
