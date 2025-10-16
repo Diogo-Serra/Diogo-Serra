@@ -25,15 +25,15 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 
 ## 🧰 Skills & Tools 
 
-**Languages:**
+
 C • Bash • Python • JavaScript • HTML/CSS • Kotlin  
-**Platforms & OS:**
+
 Linux (Ubuntu) • Windows  
-**Tooling:**
+
 Git • Docker • Make • GCC/Clang • GDB • Valgrind • VS Code • Android Studio • IntelliJ  
-**Mobile:**
+
 Android (Kotlin, Jetpack Compose)  
-**Web basics:**
+
 HTML/CSS, small JS exercises
 
 ---
