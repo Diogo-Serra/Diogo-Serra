@@ -16,7 +16,7 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 
 **42 Common Core**
 
-**SysAdmin & Security**
+**SysAdmin & Cyber Security**
   
 **AI Automation**
 
