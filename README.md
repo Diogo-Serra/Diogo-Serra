@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Diogo Serra
 
+
+
 Software developer in the **42 journey**, building knowledge in **C, Bash, Linux** and expanding into **SysAdmin** and **Cyber Security**
 
 📚
