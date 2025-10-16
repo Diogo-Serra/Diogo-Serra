@@ -28,7 +28,7 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 
 C • Bash • Python • JavaScript • HTML/CSS • Kotlin  
 
-Linux (Ubuntu) • Windows  
+Linux • Windows  
 
 Git • Docker • Make • GCC/Clang • GDB • Valgrind • VS Code • Android Studio • IntelliJ  
 
