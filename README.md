@@ -4,11 +4,11 @@
 
 Software developer in the **42 journey**, building knowledge in **C, Bash, Linux** and expanding into **SysAdmin** and **Cyber Security**. 
 
-🌐 Software developer and technology enthusiast with proven experience in project management and team leadership
+🌐 Software developer and technology enthusiast with proven experience in project management and team leadership 🌐
 
-💡 Interested in SysAdmin, Cyber Security and AI-driven automation
+💡 Interested in SysAdmin, Cyber Security and AI-driven automation 💡
 
-📚 Always learning new things and exploring new tools
+📚 Always learning new things and exploring new tools 📚
 
 ---
 
