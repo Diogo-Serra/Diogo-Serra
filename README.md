@@ -41,8 +41,8 @@ Software developer in the **42 journey**, building knowledge in **C, Bash, Linux
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** (https://www.linkedin.com/in/diogoserra90/)
-- **Projects:** (https://github.com/Diogo-Serra?tab=repositories)
+- [**LinkedIn:**](https://www.linkedin.com/in/diogoserra90/)
+- [**Projects:**](https://github.com/Diogo-Serra?tab=repositories)
 
 ---
 
