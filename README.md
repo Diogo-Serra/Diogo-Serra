@@ -6,7 +6,6 @@
 
 Software developer in the **42 journey**, building knowledge in **C, Bash, Linux** and expanding into **SysAdmin** and **Cyber Security**
 
-
 ---
 
 ## 🎯 What I'm focused on now
