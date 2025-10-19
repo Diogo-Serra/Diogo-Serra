@@ -15,7 +15,7 @@
 Hello! My name is **Diogo Serra**, and I’m passionate about creating, automating, and learning.  
 I’m currently completing my **42 Common Core**, while diving deep into **system administration**, **cyber security**, and **AI-powered tools** that improve developer workflows.  
 
-I love to explore new tech, automate repetitive tasks, and build practical tools — from 5G lab automation to mobile apps powered by GPT-5.
+I love to explore new tech, automate repetitive tasks, and build practical tools.
 
 ---
 
