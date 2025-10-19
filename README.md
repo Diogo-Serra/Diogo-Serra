@@ -91,6 +91,4 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 
 ---
 
-⚡ **Fun fact:** “Diogo Serra” might be deep into debugging, but still finds time to train for half-marathons. 🏃‍♂️  
-
 </div>
