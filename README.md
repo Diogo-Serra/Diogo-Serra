@@ -81,7 +81,7 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 ### 🌐 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diogo-serra" target="_blank">
+  <a href="https://www.linkedin.com/in/diogoserra90/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Diogo-Serra" target="_blank">
