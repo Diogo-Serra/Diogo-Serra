@@ -4,8 +4,9 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGHBP4_p17SWw/profile-displaybackgroundimage-shrink_350_1400/B4DZnN.aIAHwAY-/0/1760097313879?e=1762387200&v=beta&t=1MYYC8YfKdpIWuzaKmnmxaKjaEsx_Ysi4rnVlOhSzmo" alt="banner" width="100%"/>
 
-📍 Portugal  
+
 💻 Software Developer • SysAdmin & Cyber Security Enthusiast  
+
 🎓 Currently at **42 School**, building knowledge in **C, Bash, Linux**, and expanding into **AI-driven automation**
 
 ---
