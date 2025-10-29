@@ -75,8 +75,6 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diogo-Serra&show_icons=true&theme=radical" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Diogo-Serra&theme=radical&hide_border=false" alt="GitHub streak"/>
-</p>
 
 ---
 
