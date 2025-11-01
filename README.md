@@ -1,30 +1,26 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Diogo Serra**
+<h1 align="center">Hello! I'm Diogo Serra</h1>
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGHBP4_p17SWw/profile-displaybackgroundimage-shrink_350_1400/B4DZnN.aIAHwAY-/0/1760097313879?e=1762387200&v=beta&t=1MYYC8YfKdpIWuzaKmnmxaKjaEsx_Ysi4rnVlOhSzmo" alt="banner" width="100%"/>
 
-
-
-💻 Software Developer • SysAdmin & Cyber Security Enthusiast  
-
-🎓 Currently at **42 School**, building knowledge in **C, Bash, Linux**, and expanding into **AI-driven automation**
-
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-Hello! My name is **Diogo Serra**, and I’m passionate about creating, automating, and learning.  
-I’m currently completing my **42 Common Core**, while diving deep into **system administration**, **cyber security**, and **AI-powered tools** that improve developer workflows.  
+<p align="center">
+  <kbd>42 School</kbd>
+  <kbd>C Programming</kbd>
+  <kbd>Bash Scripting</kbd>
+  <kbd>Linux Systems</kbd>
+  <kbd>AI Automation</kbd>
+</p>
 
-I love to explore new tech, automate repetitive tasks, and build practical tools.
+<blockquote>
+  <i>Passionate about creating, automating, and learning.<br/>Building practical solutions while exploring new technologies.</i>
+</blockquote>
 
----
-
-### 🧠 What I'm Working On
-
-🧩 Advancing through the **42 Common Core**  
-🔐 Exploring **SysAdmin** and **Cyber Security**  
+</div>
 
 ---
 
