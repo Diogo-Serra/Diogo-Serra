@@ -51,10 +51,10 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 ### 🚀 Featured Projects
 
 <p align="center">
-📘 [**Piscine 42**](https://github.com/Diogo-Serra/42_Piscine) •
-🧭 [**School 42 – Common Core**](https://github.com/Diogo-Serra/42_School) •
-🤖 [**SkySeek – AI ChatBot**](https://github.com/Diogo-Serra/SkySeek) •
-🪓 [**OSRS – Bots**](https://github.com/Diogo-Serra/OSRS_bots) •
+  <a href="https://github.com/Diogo-Serra/42_Piscine">Piscine 42</a> • 
+  <a href="https://github.com/Diogo-Serra/42_School">School 42 – Common Core</a> • 
+  <a href="https://github.com/Diogo-Serra/SkySeek">SkySeek – AI ChatBot</a> • 
+  <a href="https://github.com/Diogo-Serra/OSRS_bots">OSRS – Bots</a>
 </p>
 ---
 
