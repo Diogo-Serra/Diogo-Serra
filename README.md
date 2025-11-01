@@ -16,14 +16,6 @@
   <kbd>AI Automation</kbd>
 </p>
 
-<blockquote>
-  <i>Passionate about creating, automating, and learning.<br/>Building practical solutions while exploring new technologies.</i>
-</blockquote>
-
-</div>
-
----
-
 🧰 Skills & Tools
 
 <p align="center">
