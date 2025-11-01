@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello! I'm Diogo Serra</h1>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGHBP4_p17SWw/profile-displaybackgroundimage-shrink_350_1400/B4DZnN.aIAHwAY-/0/1760097313879?e=1762387200&v=beta&t=1MYYC8YfKdpIWuzaKmnmxaKjaEsx_Ysi4rnVlOhSzmo" alt="banner" width="100%"/>
+<img src="https://github.com/Diogo-Serra/42_School/blob/main/badges/42banner.png" alt="banner" width="100%"/>
 
 ---
 
