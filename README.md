@@ -35,8 +35,9 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 🖥️ Platforms & OS
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows"/> </p>
 ⚙️ Tools & Technologies
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="50" height="50" alt="GCC"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnubash/gnubash-original.svg" width="50" height="50" alt="Bash"/> </p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="50" height="50" alt="GCC"/> 
 
+---
 
 ### 🚀 Featured Projects
 
