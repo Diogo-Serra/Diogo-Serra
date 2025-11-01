@@ -50,10 +50,18 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 ### 🚀 Featured Projects
 
 <p align="center">
-  📘 <a href="https://github.com/Diogo-Serra/42_Piscine">Piscine 42</a> • 
-  🧭 <a href="https://github.com/Diogo-Serra/42_School">School 42 – Common Core</a> • 
-  🤖 <a href="https://github.com/Diogo-Serra/SkySeek">SkySeek – AI ChatBot</a> • 
-  🪓 <a href="https://github.com/Diogo-Serra/OSRS_bots">OSRS – Bots</a>
+  <a href="https://github.com/Diogo-Serra/42_Piscine">
+    <img src="https://img.shields.io/badge/📘_Piscine_42-000?style=for-the-badge&logo=42&logoColor=white" alt="Piscine 42"/>
+  </a>
+  <a href="https://github.com/Diogo-Serra/42_School">
+    <img src="https://img.shields.io/badge/🧭_Common_Core-000?style=for-the-badge&logo=42&logoColor=white" alt="Common Core"/>
+  </a>
+  <a href="https://github.com/Diogo-Serra/SkySeek">
+    <img src="https://img.shields.io/badge/🤖_SkySeek_AI-000?style=for-the-badge&logo=openai&logoColor=white" alt="SkySeek AI"/>
+  </a>
+  <a href="https://github.com/Diogo-Serra/OSRS_bots">
+    <img src="https://img.shields.io/badge/🪓_OSRS_Bots-000?style=for-the-badge&logo=gamejolt&logoColor=white" alt="OSRS Bots"/>
+  </a>
 </p>
 
 ---
