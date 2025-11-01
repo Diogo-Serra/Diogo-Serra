@@ -25,7 +25,6 @@ I love to explore new tech, automate repetitive tasks, and build practical tools
 
 🧩 Advancing through the **42 Common Core**  
 🔐 Exploring **SysAdmin** and **Cyber Security**  
-🤖 Building **AI automation tools** and Android apps like [**SkySeek**](https://github.com/Diogo-Serra/SkySeek)
 
 ---
 
