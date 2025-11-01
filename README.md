@@ -8,6 +8,20 @@
 
 <div align="center">
 
+### 👋 About Me
+
+Software developer focused on systems programming and cybersecurity.  
+Currently at **42 School** mastering C, Bash, and Linux fundamentals.  
+Building practical tools and exploring automation.
+
+</div>
+
+---
+
+### 🧰 Skills & Tools
+
+<div align="center">
+
 <p align="center">
   <kbd>42 School</kbd>
   <kbd>C Programming</kbd>
@@ -15,8 +29,6 @@
   <kbd>Linux Systems</kbd>
   <kbd>AI Automation</kbd>
 </p>
-
-🧰 Skills & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/> • 
