@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello! I'm Diogo Serra</h1>
 
-<img src="https://github.com/Diogo-Serra/42_School/blob/main/badges/banner42.png" alt="banner" width="100%"/>
+<img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/EchBMI2lRVhGmSU6_F2wLa4Bv-fazzIZezoWptHperBkxA?e=dVlOEt" alt="banner" width="100%"/>
 
 ---
 
