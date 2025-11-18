@@ -69,8 +69,8 @@ Building practical tools and exploring automation.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-Serra&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br/>
+  <img src="https://github-readme-streak-stats-dic-git-3ec079-diogo-serras-projects.vercel.app/" alt="GitHub Streak"/>
+</p>
 
 ---
 
