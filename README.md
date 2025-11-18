@@ -72,7 +72,7 @@ Building practical tools and exploring automation.
 
  ---
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=radical&v=1)
 
 ---
 
