@@ -2,10 +2,6 @@
 
 <h1 align="center">Hello! I'm Diogo Serra</h1>
 
-<img src="https://1drv.ms/i/c/C6D9B4F0E148D4C6/EchBMI2lRVhGmSU6_F2wLa4Bv-fazzIZezoWptHperBkxA?e=dVlOEt" alt="banner" width="100%"/>
-
----
-
 <div align="center">
 
 ### 👋 About Me
