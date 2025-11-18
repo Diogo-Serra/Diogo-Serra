@@ -68,8 +68,6 @@ Building practical tools and exploring automation.
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Diogo-Serra)](https://git.io/streak-stats)
-
 ---
 
 ### 🌐 Let’s Connect!
