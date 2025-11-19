@@ -2,6 +2,10 @@
 
 <h1 align="center">Hello! I'm Diogo Serra</h1>
 
+<p align="center">
+  <img src="https://github.com/Diogo-Serra/42-project-badges/blob/main/covers/banner42.png" alt="Banner">
+</p>
+
 <div align="center">
 
 Software developer focused on systems programming and cybersecurity.  
