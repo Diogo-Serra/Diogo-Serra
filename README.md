@@ -8,9 +8,9 @@
 
 <div align="center">
 
-Software developer focused on systems programming and cybersecurity.  
-Currently at **42 School** mastering C, Bash, and Linux fundamentals.  
-Building practical tools and exploring automation.
+Software developer specializing in systems programming and cybersecurity.
+Currently at 42 School, mastering C, Python, Linux systems, and security fundamentals.
+Passionate about low-level coding, automation, and building secure systems.
 
 </div>
 
@@ -53,12 +53,6 @@ Building practical tools and exploring automation.
   </a>
   <a href="https://github.com/Diogo-Serra/42_School">
     <img src="https://img.shields.io/badge/Common%20Core-1E2A44?style=for-the-badge&logo=42&logoColor=white" alt="Common Core"/>
-  </a>
-  <a href="https://github.com/Diogo-Serra/SkySeek">
-    <img src="https://img.shields.io/badge/SkySeek%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="SkySeek AI"/>
-  </a>
-  <a href="https://github.com/Diogo-Serra/OSRS_bots">
-    <img src="https://img.shields.io/badge/OSRS%20Bots-8B4513?style=for-the-badge&logo=runescape&logoColor=white" alt="OSRS Bots"/>
   </a>
 </p>
 
