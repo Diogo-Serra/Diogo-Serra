@@ -45,19 +45,6 @@ Passionate about low-level coding, automation, and building secure systems.
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Diogo-Serra/42_Piscine">
-    <img src="https://img.shields.io/badge/Piscine%2042-1E2A44?style=for-the-badge&logo=42&logoColor=white" alt="Piscine 42"/>
-  </a>
-  <a href="https://github.com/Diogo-Serra/42_School">
-    <img src="https://img.shields.io/badge/Common%20Core-1E2A44?style=for-the-badge&logo=42&logoColor=white" alt="Common Core"/>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=radical&v=1)
