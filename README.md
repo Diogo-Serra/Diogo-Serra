@@ -40,12 +40,12 @@ Passionate about low-level coding, automation, and building secure systems.
 
 <table>
   <tr>
-    <td style="width:50%; padding: 10px;">
+    <td style="width:50%; padding: 1px;">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" 
         alt="Streak" 
         width="100%" 
-        style="max-width:100%; height:200px; object-fit:contain;"
+        style="max-width:100%; height:220px; object-fit:contain;"
       />
     </td>
     <td style="width:50%; padding: 10px;">
@@ -53,7 +53,7 @@ Passionate about low-level coding, automation, and building secure systems.
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4" 
         alt="Top Languages" 
         width="100%" 
-        style="max-width:100%; height:200px; object-fit:contain;"
+        style="max-width:100%; height:220px; object-fit:contain;"
       />
     </td>
   </tr>
