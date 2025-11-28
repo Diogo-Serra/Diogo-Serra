@@ -60,6 +60,7 @@ Passionate about low-level coding, automation, and building secure systems.
 </table>
 
 ---
+
 ### Let’s Connect!
 
 <a href="https://www.linkedin.com/in/diogoserra90/" target="_blank">
