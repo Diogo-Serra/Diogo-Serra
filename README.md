@@ -37,10 +37,25 @@ Passionate about low-level coding, automation, and building secure systems.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" style="filter:brightness(0)invert(1)" alt="macOS"/>
 
 ---
+
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" alt="Streak"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4" alt="Top Languages"/></td>
+    <td style="width:50%; padding: 10px;">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" 
+        alt="Streak" 
+        width="100%" 
+        style="max-width:100%; height:200px; object-fit:contain;"
+      />
+    </td>
+    <td style="width:50%; padding: 10px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4" 
+        alt="Top Languages" 
+        width="100%" 
+        style="max-width:100%; height:200px; object-fit:contain;"
+      />
+    </td>
   </tr>
 </table>
 
