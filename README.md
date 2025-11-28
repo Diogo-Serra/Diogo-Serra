@@ -40,14 +40,20 @@ Passionate about low-level coding, automation, and building secure systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code"/> • 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="30" height="30" alt="Unix"/> • 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/> • 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30" height="30" alt="macOS"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30" height="30" alt="macOS"/> 
+
+  <table align="center">
+    <tr>
+      <!-- GitHub Streak (left) -->
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=radical&hide_border=true&background=0D1117&ring=FF0066&fire=FF0066&currStreakNum=FFFFFF&currStreakLabel=FF0066&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" width="420" alt="GitHub Streak"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0066&text_color=FFFFFF&ring=FF0066" width="360" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </p>
-
----
-
-### 📊 GitHub Stats
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=radical&v=1)
 
 ---
 
