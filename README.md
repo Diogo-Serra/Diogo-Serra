@@ -1,64 +1,57 @@
 <div align="center">
-<h1 align="center">Hello! I'm Diogo Serra</h1>
-<p align="center">
-  <img src="https://github.com/Diogo-Serra/42-project-badges/blob/main/covers/banner42.png" alt="Banner">
-</p>
 
-<div align="center">
-<strong>Software developer specializing in systems programming and cybersecurity.</strong><br>
-Currently at 42 School, mastering C, Python, Linux systems, and security fundamentals.<br>
+<img src="https://github.com/Diogo-Serra/42-project-badges/blob/main/covers/banner42.png" alt="42 Banner" width="90%"/>
+
+# Hello! I'm Diogo Serra
+
+<div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
+
+**Software developer specializing in systems programming and cybersecurity.**  
+Currently at 42 School, mastering C, Python, Linux systems, and security fundamentals.  
 Passionate about low-level coding, automation, and building secure systems.
+
 </div>
 
 ---
-### 🧰 Skills & Tools
-<div align="center">
+### Skills & Tools
 
-<p align="center">
-  <kbd style="background:#00ffea;color:#000;font-size:14px;padding:8px 16px">42 School</kbd> 
-  <kbd style="background:#ff0066;color:#fff;font-size:14px;padding:8px 16px">C Programming</kbd> 
-  <kbd style="background:#00ffea;color:#000;font-size:14px;padding:8px 16px">Bash Scripting</kbd> 
-  <kbd style="background:#ff0066;color:#fff;font-size:14px;padding:8px 16px">Linux Systems</kbd> 
-  <kbd style="background:#00ffea;color:#000;font-size:14px;padding:8px 16px">AI Automation</kbd>
+<p>
+  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">42 School</kbd>
+  <kbd style="background:#81a1c1;color:#eceff4;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">C Programming</kbd>
+  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Bash Scripting</kbd>
+  <kbd style="background:#81a1c1;color:#eceff4;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Linux Systems</kbd>
+  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">AI Automation</kbd>
 </p>
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="48" height="48" alt="GCC"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" height="48" alt="Vim"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="48" height="48" alt="Unix"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" style="filter:brightness(0)invert(1)" alt="macOS"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="55" height="55" style="filter: brightness(0) invert(1);"/> <!-- Fixed macOS logo -->
-
-<br><br>
-
-<table align="center">
+---
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffea&fire=ff0066&currStreakLabel=00ffea" alt="GitHub Streak"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffea&text_color=ffffff" alt="Top Languages"/>
-    </td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" alt="Streak"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4" alt="Top Languages"/></td>
   </tr>
 </table>
-</div>
 
 ---
-### 🌐 Let’s Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/diogoserra90/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="https://github.com/Diogo-Serra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### Let’s Connect!
+
+<a href="https://www.linkedin.com/in/diogoserra90/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Diogo-Serra" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
