@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Diogo-Serra/42-project-badges/blob/main/covers/bannercat.gif" alt="42 Banner" width="70%"/>
+<img src="https://github.com/Diogo-Serra/42-project-badges/blob/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
 
 # Hello! I'm Diogo Serra
 
