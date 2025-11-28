@@ -42,7 +42,7 @@ Passionate about low-level coding, automation, and building secure systems.
   <tr>
     <td style="width:50%; padding: 1px;">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" 
+        src="https://streak-stats.demolab.com/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" 
         alt="Streak" 
         width="100%" 
         style="max-width:100%; height:220px; object-fit:contain;"
