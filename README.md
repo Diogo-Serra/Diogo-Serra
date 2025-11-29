@@ -58,5 +58,3 @@ Passionate about low-level coding, automation, and building secure systems.
     </td>
   </tr>
 </table>
-
-</div>
