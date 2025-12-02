@@ -50,7 +50,7 @@ Passionate about low-level coding, automation, and building secure systems.
     </td>
     <td style="width:50%; padding: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4" 
+        src="https://my-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4" 
         alt="Top Languages" 
         width="100%" 
         style="max-width:100%; height:220px; object-fit:contain;"
