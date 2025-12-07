@@ -7,7 +7,7 @@
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
 **Software developer specializing in systems programming and cybersecurity.**  
-Currently at 42 School, mastering C, Python, Linux systems, and security fundamentals.  
+Currently at 42 School, mastering C, Python, Linux systems and security fundamentals.  
 Passionate about low-level coding, automation, and building secure systems.
 
 </div>
