@@ -14,16 +14,6 @@ Passionate about low-level coding, automation, and building secure systems.
 
 ---
 
-### Skills & Tools
-
-<p>
-  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">42 School</kbd>
-  <kbd style="background:#81a1c1;color:#eceff4;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Systems Programming</kbd>
-  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Web Development</kbd>
-  <kbd style="background:#81a1c1;color:#eceff4;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Databases</kbd>
-  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">AI Automation</kbd>
-</p>
-
 #### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
