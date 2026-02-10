@@ -22,6 +22,8 @@ Passionate about low-level coding, automation, and building secure systems.
   <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Bash Scripting</kbd>
   <kbd style="background:#81a1c1;color:#eceff4;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Linux Systems</kbd>
   <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">AI Automation</kbd>
+  <kbd style="background:#81a1c1;color:#eceff4;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Web Development</kbd>
+  <kbd style="background:#88c0d0;color:#2e3440;font-weight:600;padding:8px 16px;border-radius:6px;font-size:14px">Databases</kbd>
 </p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
@@ -36,6 +38,13 @@ Passionate about low-level coding, automation, and building secure systems.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="48" height="48" alt="Unix"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" style="filter:brightness(0)invert(1)" alt="macOS"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx"/>
 
 ---
 
