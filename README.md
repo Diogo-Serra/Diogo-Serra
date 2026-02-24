@@ -5,23 +5,17 @@
 
 # Hello! I'm Diogo Serra
 
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/water/diosoare?UM6P=off" alt="diosoare's 42 stats"/>
-  </a>
-</div>
-
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
-
 **Software developer specializing in systems programming and cybersecurity.**
+Currently at 42 School, mastering C, Python, Linux systems and security fundamentals.  
+Passionate about low-level coding, automation, and building secure systems.
+
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/water/diosoare?UM6P=off" alt="diosoare's 42 stats"/>
   </a>
 </div>
-Currently at 42 School, mastering C, Python, Linux systems and security fundamentals.  
-Passionate about low-level coding, automation, and building secure systems.
 
 </div>
 
