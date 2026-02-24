@@ -74,3 +74,9 @@ Passionate about low-level coding, automation, and building secure systems.
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.5em; font-style: italic; color: #b48ead; margin-top: 32px;">
+    “You must gather your party before venturing forth”
+  </p>
+</div>
