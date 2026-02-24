@@ -74,17 +74,3 @@ Passionate about low-level coding, automation, and building secure systems.
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://static.wikia.nocookie.net/baldursgategame/images/2/2e/BG3_Icon.png" width="36" height="36" alt="Baldur's Gate 3" title="Baldur's Gate 3"/>
-  <img src="https://static.wikia.nocookie.net/darksouls/images/6/6e/Bonfire_Dark_Souls_III.png" width="36" height="36" alt="Dark Souls" title="Dark Souls"/>
-  <img src="https://static.wikia.nocookie.net/sekiro/images/2/2b/Sekiro_icon.png" width="36" height="36" alt="Sekiro" title="Sekiro"/>
-  <img src="https://static.wikia.nocookie.net/eldenring/images/2/2e/Elden_Ring_Icon.png" width="36" height="36" alt="Elden Ring" title="Elden Ring"/>
-  <img src="https://static.wikia.nocookie.net/bloodborne/images/2/2e/Bloodborne_Icon.png" width="36" height="36" alt="Soulbourne" title="Soulbourne"/>
-  <img src="https://static.wikia.nocookie.net/wowpedia/images/9/99/WoW_icon.svg" width="36" height="36" alt="World of Warcraft" title="World of Warcraft"/>
-  <img src="https://static.wikia.nocookie.net/gw2/images/2/2c/Gw2-icon.png" width="36" height="36" alt="Guild Wars 2" title="Guild Wars 2"/>
-</div>
-
----
-
-here
