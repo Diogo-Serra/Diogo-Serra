@@ -52,6 +52,8 @@ Passionate about low-level coding, automation, and building secure systems.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" style="filter:brightness(0)invert(1)" alt="macOS"/>
 
+---
+
 <table>
   <tr>
     <td style="width:50%; padding: 1px;">
