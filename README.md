@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I%27m+Diogo+Serra" alt="Typing SVG line 1"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=800&color=BF5FFF&center=true&vCenter=true&width=700&repeat=false&lines=Welcome+to+my+github+page" alt="Typing SVG line 2"/>
 
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
