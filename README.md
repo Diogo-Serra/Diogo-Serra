@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1500&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
 
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
