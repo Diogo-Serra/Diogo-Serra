@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/Diogo-Serra/42-project-badges/blob/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
+<img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
 
+<br/>
 
-# Hello! I'm Diogo Serra
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
