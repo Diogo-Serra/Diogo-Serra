@@ -4,10 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
+#### About
 **Software developer specializing in systems programming and cybersecurity.**
 Currently at 42 School, mastering C, Python, Linux systems and security fundamentals.  
 Passionate about low-level coding, automation, and building secure systems.
