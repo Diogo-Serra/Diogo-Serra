@@ -21,7 +21,11 @@ Passionate about low-level coding, automation, and building secure systems.
 
 </div>
 
+</div>
+
 ---
+
+<div align="center">
 
 #### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" height="30" alt="Bash"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/>
@@ -35,7 +39,11 @@ Passionate about low-level coding, automation, and building secure systems.
 #### Operating Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="30" height="30" alt="Unix"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30" height="30" style="filter:brightness(0)invert(1)" alt="macOS"/>
 
+</div>
+
 ---
+
+<div align="center">
 
 <table>
   <tr>
@@ -58,8 +66,8 @@ Passionate about low-level coding, automation, and building secure systems.
   </tr>
 </table>
 
-<div align="center">
   <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.5em; font-style: italic; color: #b48ead; margin-top: 32px;">
-    “You must gather your party before venturing forth”
+    "You must gather your party before venturing forth"
   </p>
+
 </div>
