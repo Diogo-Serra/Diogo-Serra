@@ -25,6 +25,8 @@ Passionate about low-level coding, automation, and building secure systems.
 
 ---
 
+<div align="center">
+
 ## Skills
 
 **Languages**
@@ -42,6 +44,8 @@ Passionate about low-level coding, automation, and building secure systems.
 **Operating Systems**
 
 ![OS](https://skillicons.dev/icons?i=linux,windows,apple&theme=dark)
+
+</div>
 
 ---
 
