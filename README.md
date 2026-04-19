@@ -13,12 +13,6 @@
 Currently at 42 School, mastering C, Python, Linux systems and security fundamentals.  
 Passionate about low-level coding, automation, and building secure systems.
 
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/water/diosoare?UM6P=off" alt="diosoare's 42 stats"/>
-  </a>
-</div>
-
 </div>
 
 </div>
