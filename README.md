@@ -4,27 +4,16 @@
   <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
 </a>
 
-<a href="https://diogo-serra.github.io/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
-</a>
-
 <br/>
 
-```ruby
+## About me
 
-    # ──────────────────  diogo@42Lisboa  ───────────────────
+Hey, I'm Diogo. I work mostly in <code>C</code> and <code>Python</code> and <code>bash</code> and I spend a lot of time in the terminal. I like to learn new things and I care a lot about how things work under the hood.
 
-    "Diogo Serra"
-    "Software Developer"
-    "42 School — Lisboa"
+<samp><font color="#8b949e">Currently at 42 Lisboa, working through hard projects, picking things up along the way and figuring stuff out with others.<br/>
+Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and Magic: The Gathering.</font></samp>
 
-    # ──────────────────────  Focus  ────────────────────────
-    
-    "Systems Programming & System Administration"
-    "C · Python · Linux · Security"
-    "Low-level code · Automation · Systems"
-
-```
+`C` `Python` `Bash` `Linux` `Systems` `Automation`
 
 [![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)
 
