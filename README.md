@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
+<a href="https://diogo-serra.github.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
+<a href="https://diogo-serra.github.io/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
+</a>
 
 <div style="max-width:740px; line-height:1.65; color:#eceff4; font-family:'Segoe UI',system-ui,sans-serif">
 
@@ -12,6 +16,10 @@
 **Software developer specializing in systems programming and cybersecurity.**
 Currently at 42 School, mastering C, Python, Linux systems and security fundamentals.  
 Passionate about low-level coding, automation, and building secure systems.
+
+<br/>
+
+<a href="https://diogo-serra.github.io/" target="_blank" style="display:inline-block; padding:8px 22px; background:#00BFFF18; border:1px solid #00BFFF55; border-radius:6px; color:#00BFFF; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.92em; text-decoration:none; letter-spacing:0.04em;">🌐 &nbsp;Visit me here &rarr;</a>
 
 </div>
 
