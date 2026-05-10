@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://diogo-serra.github.io/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
 </a>
 
 <a href="https://diogo-serra.github.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
 </a>
 
 <br/>
