@@ -10,12 +10,14 @@
 
 Hey, I'm Diogo. I work mostly in <code>C</code> and <code>Python</code> and <code>bash</code> and I spend a lot of time in the terminal. I like to learn new things and I care a lot about how things work under the hood.
 
-<samp><font color="#8b949e">Currently at 42 Lisboa, working through hard projects, picking things up along the way and figuring stuff out with others.<br/>
+<samp><font color="#8b949e">Currently at 42 Lisboa, working through hard projects, learning new topics and figuring stuff out.<br/>
 Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and Magic: The Gathering.</font></samp>
 
 `C` `Python` `Bash` `Linux` `Systems` `Automation`
 
-[![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)
+<a href="https://diogo-serra.github.io/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF" alt="portfolio" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" />
+</a>
 
 
 </div>
