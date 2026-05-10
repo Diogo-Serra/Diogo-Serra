@@ -11,14 +11,18 @@
 </a>
 
 ```ruby
+
     # ──────────────────  diogo@42Lisboa  ───────────────────
+
     "Diogo Serra"
     "Software Developer"
     "42 School — Lisboa"
+
     # ──────────────────────  Focus  ────────────────────────
     "Systems Programming & System Administration"
     "C · Python · Linux · Security"
     "Low-level code · Automation · Systems"
+
 ```
 
 [![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)
