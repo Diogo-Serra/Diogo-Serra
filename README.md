@@ -15,9 +15,7 @@ Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and M
 
 `C` `Python` `Bash` `Linux` `Systems` `Automation`
 
-<a href="https://diogo-serra.github.io/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF" alt="portfolio" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="40" />&nbsp;&nbsp;[![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="40" />
 
 
 </div>
