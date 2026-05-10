@@ -73,5 +73,3 @@ Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and M
   <h3><em><font color="#c792ea">"You must gather your party before venturing forth"</font></em></h3>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/banner/footer.svg" alt="footer" width="100%"/>
