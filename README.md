@@ -26,45 +26,26 @@ Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and M
 
 ## Skills
 
-<table>
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-C-000?&logo=C" />
-      <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-      <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash" />
-      <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" />
-      <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6" />
-      <img src="https://img.shields.io/badge/-Visual%20Basic-000?&logo=dotnet&logoColor=512BD4" />
-      <img src="https://img.shields.io/badge/-Markdown-000?&logo=Markdown" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools &amp; Technologies</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009639" />
-      <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
-      <img src="https://img.shields.io/badge/-CMake-000?&logo=CMake" />
-      <img src="https://img.shields.io/badge/-Vim-000?&logo=Vim&logoColor=019733" />
-      <img src="https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC" />
-      <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" />
-      <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Operating Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
-      <img src="https://img.shields.io/badge/-macOS-000?&logo=Apple" />
-    </td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-000?&logo=dotnet&logoColor=512BD4)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&logoColor=019733)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![macOS](https://img.shields.io/badge/-macOS-000?&logo=Apple)
 
 </div>
 
