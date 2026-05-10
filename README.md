@@ -13,10 +13,9 @@ Welcome. I work mostly in <code>C</code>, <code>Python</code> and <code>bash</co
 <samp><font color="#8b949e">Currently at 42 Lisboa, working through hard projects, learning new topics and figuring stuff out.<br/>
 Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and Magic: The Gathering.</font></samp>
 
-`C` `Python` `Bash` `Linux` `SysAdmin` `DevOps` `Open-Source`
-
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="40" />&nbsp;&nbsp;[![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="40" />
 
+`C` `Python` `Bash` `Linux` `SysAdmin` `DevOps` `Open-Source`
 
 </div>
 
