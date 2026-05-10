@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://diogo-serra.github.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/covers/bannercat.gif" alt="42 Banner" height="40%" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/banner/header.svg" alt="42 Banner" height="40%" width="100%"/>
 </a>
 
 <br/>
 
 ## About me
 
-Hey, I'm Diogo. I work mostly in <code>C</code> and <code>Python</code> and <code>bash</code> and I spend a lot of time in the terminal. I like to learn new things and I care a lot about how things work under the hood.
+Hey, I'm Diogo. I work mostly in <code>C</code>, <code>Python</code> and <code>bash</code> and I spend a lot of time in the terminal. I like to learn new things and I care a lot about how things work under the hood.
 
 <samp><font color="#8b949e">Currently at 42 Lisboa, working through hard projects, learning new topics and figuring stuff out.<br/>
 Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and Magic: The Gathering.</font></samp>
