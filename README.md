@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://diogo-serra.github.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/main/banner/header.svg" alt="42 Banner" height="40%" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Diogo-Serra/42-project-badges/73f6cd233be24f0076637673fb3d46b6f9007f40/banner/header.svg" alt="42 Banner" height="40%" width="100%"/>
 </a>
 
 <br/>
