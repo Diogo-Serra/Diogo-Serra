@@ -69,8 +69,7 @@ Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and M
   </tr>
 </table>
 
-  <p style="font-family: 'Georgia', 'Times New Roman', serif; font-size: 1.5em; font-style: italic; color: #b48ead; margin-top: 32px;">
-    "You must gather your party before venturing forth"
-  </p>
+  <br/>
+  <h3><em><font color="#c792ea">"You must gather your party before venturing forth"</font></em></h3>
 
 </div>
