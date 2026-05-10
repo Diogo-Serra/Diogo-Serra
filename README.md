@@ -19,6 +19,7 @@
     "42 School — Lisboa"
 
     # ──────────────────────  Focus  ────────────────────────
+    
     "Systems Programming & System Administration"
     "C · Python · Linux · Security"
     "Low-level code · Automation · Systems"
