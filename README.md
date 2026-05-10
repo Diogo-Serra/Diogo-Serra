@@ -10,23 +10,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi%2C+I%27m+Diogo+Serra;Welcome+to+my+github+page" alt="Typing SVG"/>
 </a>
 
-
 ```ruby
-  ┌─────────────────────────────────────────────────────────────┐
-                                                               
-     # ─────────────────  diogo@42Lisboa  ──────────────────    
-                                                                
-      name:        "Diogo Serra"                                
-      role:        "Software Developer"                         
-      institute:   "42 School — Lisboa"                         
-                                                                
-     # ──────────────────────  Focus  ──────────────────────    
-                                                                
-      specialty:   "Systems Programming & System Administration"
-      stack:       "C · Python · Linux · Security"              
-      interests:   "Low-level code · Automation · Systems"      
-                                                                
-  └─────────────────────────────────────────────────────────────┘
+    # ──────────────────  diogo@42Lisboa  ───────────────────
+    "Diogo Serra"
+    "Software Developer"
+    "42 School — Lisboa"
+    # ──────────────────────  Focus  ────────────────────────
+    "Systems Programming & System Administration"
+    "C · Python · Linux · Security"
+    "Low-level code · Automation · Systems"
 ```
 
 [![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)
