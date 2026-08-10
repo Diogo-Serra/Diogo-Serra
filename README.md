@@ -40,7 +40,7 @@ Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games and M
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-![AI](https://img.shields.io/badge/-AI-000?logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=flat-square&logo=opensourceinitiative&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch&logoColor=EE4C2C)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?logo=huggingface&logoColor=FFD21E)
