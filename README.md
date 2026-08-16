@@ -10,7 +10,7 @@
 
 Delivery leader with over a decade of experience scaling teams and high-level operations, now building technical depth in software engineering. I work primarily in <code>C</code>, <code>Python</code>, and <code>bash</code>, with growing focus on DevOps, machine learning, and AI. I spend most of my time in the terminal and care about understanding how things work under the hood.
 
-<samp><font color="#8b949e">Currently at 42 Lisboa, working through complex projects and building toward a career in DevOps engineering, with a growing focus on AI and Machine Learning<br/>
+<samp><font color="#8b949e">Currently at 42 Lisbon, working through complex projects in a peer-to-peer, innovative learning methodology, and building toward a career in DevOps engineering, with a growing focus on AI and Machine Learning.<br/>
 Cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games, and Magic: The Gathering.</font></samp>
 
 [![portfolio](https://img.shields.io/badge/🌐%20Visit%20my%20portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=00BFFF)](https://diogo-serra.github.io/)
