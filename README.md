@@ -25,31 +25,73 @@ I'm a cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games
 
 ## Skills
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-000?&logo=dotnet&logoColor=512BD4)
-![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+### Languages
 
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009639)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&logoColor=019733)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![C](https://img.shields.io/badge/-C-000?logo=c)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=gnubash)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=css)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-000?logo=dotnet)
+![Markdown](https://img.shields.io/badge/-Markdown-000?logo=markdown)
 
-![AI](https://img.shields.io/badge/AI-000000?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?logo=huggingface&logoColor=FFD21E)
+### AI, Machine Learning & LLMs
 
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?logo=opensourceinitiative)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?logo=huggingface)
+![Transformers](https://img.shields.io/badge/-Transformers-000?logo=huggingface)
+![Qwen](https://img.shields.io/badge/-Qwen-000?logo=alibabadotcom)
+![Ollama](https://img.shields.io/badge/-Ollama-000?logo=ollama)
+![vLLM](https://img.shields.io/badge/-vLLM-000?logo=python)
+![llama.cpp](https://img.shields.io/badge/-llama.cpp-000?logo=meta)
+![RAG](https://img.shields.io/badge/-RAG-000?logo=googlescholar)
+![MCP](https://img.shields.io/badge/-MCP-000?logo=modelcontextprotocol)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-000?logo=robotframework)
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![macOS](https://img.shields.io/badge/-macOS-000?&logo=Apple)
+### Web Development & APIs
+
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![Vite](https://img.shields.io/badge/-Vite-000?logo=vite)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs)
+![npm](https://img.shields.io/badge/-npm-000?logo=npm)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-000?logo=postman)
+![Directus](https://img.shields.io/badge/-Directus-000?logo=directus)
+![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx)
+
+### Development Tools & DevOps
+
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?logo=githubactions)
+![uv](https://img.shields.io/badge/-uv-000?logo=astral)
+![pip](https://img.shields.io/badge/-pip-000?logo=pypi)
+![Pydantic](https://img.shields.io/badge/-Pydantic-000?logo=pydantic)
+![CMake](https://img.shields.io/badge/-CMake-000?logo=cmake)
+![GNU Make](https://img.shields.io/badge/-GNU%20Make-000?logo=gnu)
+![GCC](https://img.shields.io/badge/-GCC-000?logo=gnu)
+![Vim](https://img.shields.io/badge/-Vim-000?logo=vim)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?logo=mariadb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-000?logo=debian)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-000?logo=windows)
+![macOS](https://img.shields.io/badge/-macOS-000?logo=apple)
+
 
 </div>
 
