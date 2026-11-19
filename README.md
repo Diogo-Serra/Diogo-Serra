@@ -101,26 +101,11 @@ I'm a cat person. Into Souls games, Baldur's Gate, Path of Exile, survival games
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td style="width:50%; padding: 1px;">
-      <img 
-        src="https://streak-stats.vercel.app/?user=diogo-serra&theme=nord&hide_border=true&background=2e3440&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&currStreakNum=eceff4&sideLabels=d8dee9&dates=4c566a" 
-        alt="Streak" 
-        width="100%" 
-        style="max-width:100%; height:220px; object-fit:contain;"
-      />
-    </td>
-    <td style="width:50%; padding: 10px;">
-      <img 
-        src="https://my-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4&langs_count=8" 
-        alt="Top Languages" 
-        width="100%" 
-        style="max-width:100%; height:220px; object-fit:contain;"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://my-readme-stats.vercel.app/api/top-langs/?username=diogo-serra&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=eceff4&langs_count=8"
+  alt="Top Languages"
+  height="220"
+/>
 
   <br/>
   <h3><em><font color="#c792ea">"You must gather your party before venturing forth"</font></em></h3>
